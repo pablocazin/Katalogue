@@ -8,7 +8,7 @@ class Tshirt {
 }
 
 let tshirts = [];
-tshirts.push(new Tshirt('stalin', 'rouge', 'xxl', 'https://www.boxing-shop.com/media/cache/default_product_zoom/media/porduits/everlast_228537_807580-60_4_20200821T134426_01.jpg'))
+tshirts.push(new Tshirt('audrey', 'rouge', 'xxl', 'https://www.boxing-shop.com/media/cache/default_product_zoom/media/porduits/everlast_228537_807580-60_4_20200821T134426_01.jpg'))
 tshirts.push(new Tshirt('bob', 'bleu', 'm', 'https://www.epideloire.fr/wn/files/e-commerce/product-photo/photo.2128.jpeg'))
 tshirts.push(new Tshirt('kevin', 'jaune', 'l', 'https://www.cdiscount.com/pdt2/9/9/5/1/700x700/mp02691995/rw/t-shirt-jaune-mixte-homme-femme-sc221-100-coton-c.jpg'))
 
